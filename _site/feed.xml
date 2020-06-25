@@ -3,10 +3,10 @@
   <channel>
     <title>Learn and share</title>
     <description>I write about all problems or experiences that I have.</description>
-    <link>https://bachvanthe1994.github.io/blog/</link>
-    <atom:link href="https://bachvanthe1994.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Jun 2020 16:36:20 +0700</pubDate>
-    <lastBuildDate>Thu, 25 Jun 2020 16:36:20 +0700</lastBuildDate>
+    <link>/blog/</link>
+    <atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 25 Jun 2020 16:42:37 +0700</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2020 16:42:37 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -73,8 +73,8 @@
 &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/agusmakmun/agusmakmun.github.io/master/static/img/_posts/amazon-rds5.png&quot; alt=&quot;amazon-rds 5&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jun 2020 10:03:00 +0700</pubDate>
-        <link>https://bachvanthe1994.github.io/blog/server/linux/others/2020/06/12/how-to-create-database-amazon-rds.html</link>
-        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/server/linux/others/2020/06/12/how-to-create-database-amazon-rds.html</guid>
+        <link>/blog/server/linux/others/2020/06/12/how-to-create-database-amazon-rds.html</link>
+        <guid isPermaLink="true">/blog/server/linux/others/2020/06/12/how-to-create-database-amazon-rds.html</guid>
         
         
         <category>server</category>
@@ -138,8 +138,8 @@ and to implement it, you can follow this below example;&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 12 May 2020 20:24:00 +0700</pubDate>
-        <link>https://bachvanthe1994.github.io/blog/python/django/2020/05/12/how-setup-all-raw-id-fields-and-search-fields-for-django.html</link>
-        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/django/2020/05/12/how-setup-all-raw-id-fields-and-search-fields-for-django.html</guid>
+        <link>/blog/python/django/2020/05/12/how-setup-all-raw-id-fields-and-search-fields-for-django.html</link>
+        <guid isPermaLink="true">/blog/python/django/2020/05/12/how-setup-all-raw-id-fields-and-search-fields-for-django.html</guid>
         
         
         <category>python</category>
@@ -202,8 +202,8 @@ and to implement it, you can follow this below example;&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 02 May 2020 20:32:04 +0700</pubDate>
-        <link>https://bachvanthe1994.github.io/blog/python/2020/05/02/python-numberize-until-undefined-or-infinity-numbers.html</link>
-        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/2020/05/02/python-numberize-until-undefined-or-infinity-numbers.html</guid>
+        <link>/blog/python/2020/05/02/python-numberize-until-undefined-or-infinity-numbers.html</link>
+        <guid isPermaLink="true">/blog/python/2020/05/02/python-numberize-until-undefined-or-infinity-numbers.html</guid>
         
         
         <category>python</category>
@@ -263,8 +263,8 @@ spd-say &lt;span class=&quot;s2&quot;&gt;&quot;My lord, your process hasbeen com
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 07 Apr 2020 14:32:04 +0700</pubDate>
-        <link>https://bachvanthe1994.github.io/blog/bash/linux/ubuntu/2020/04/07/how-to-make-a-notification-when-terminal-process-is-complete.html</link>
-        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/bash/linux/ubuntu/2020/04/07/how-to-make-a-notification-when-terminal-process-is-complete.html</guid>
+        <link>/blog/bash/linux/ubuntu/2020/04/07/how-to-make-a-notification-when-terminal-process-is-complete.html</link>
+        <guid isPermaLink="true">/blog/bash/linux/ubuntu/2020/04/07/how-to-make-a-notification-when-terminal-process-is-complete.html</guid>
         
         
         <category>bash</category>
@@ -341,8 +341,8 @@ spd-say &lt;span class=&quot;s2&quot;&gt;&quot;My lord, your process hasbeen com
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 07 Apr 2020 14:32:04 +0700</pubDate>
-        <link>https://bachvanthe1994.github.io/blog/python/django/2020/04/07/how-to-create-django-language-middleware.html</link>
-        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/django/2020/04/07/how-to-create-django-language-middleware.html</guid>
+        <link>/blog/python/django/2020/04/07/how-to-create-django-language-middleware.html</link>
+        <guid isPermaLink="true">/blog/python/django/2020/04/07/how-to-create-django-language-middleware.html</guid>
         
         
         <category>python</category>
@@ -406,8 +406,8 @@ SHELL=/bin/bash
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 07 Apr 2020 14:32:04 +0700</pubDate>
-        <link>https://bachvanthe1994.github.io/blog/bash/linux/ubuntu/2020/04/07/how-to-automaticly-backup-your-projects-into-external-hardisk-in-ubuntu.html</link>
-        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/bash/linux/ubuntu/2020/04/07/how-to-automaticly-backup-your-projects-into-external-hardisk-in-ubuntu.html</guid>
+        <link>/blog/bash/linux/ubuntu/2020/04/07/how-to-automaticly-backup-your-projects-into-external-hardisk-in-ubuntu.html</link>
+        <guid isPermaLink="true">/blog/bash/linux/ubuntu/2020/04/07/how-to-automaticly-backup-your-projects-into-external-hardisk-in-ubuntu.html</guid>
         
         
         <category>bash</category>
@@ -611,8 +611,8 @@ like android can’t fetch the response body when HTTP Status &amp;gt;= 400).&lt
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 07 Jan 2020 10:17:00 +0700</pubDate>
-        <link>https://bachvanthe1994.github.io/blog/python/django/2020/01/07/django-standard-api-response-middleware-for-drf.html</link>
-        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/django/2020/01/07/django-standard-api-response-middleware-for-drf.html</guid>
+        <link>/blog/python/django/2020/01/07/django-standard-api-response-middleware-for-drf.html</link>
+        <guid isPermaLink="true">/blog/python/django/2020/01/07/django-standard-api-response-middleware-for-drf.html</guid>
         
         
         <category>python</category>
@@ -890,8 +890,8 @@ ubuntu@ip-xxx-xx-x-xxx:~$ sudo systemctl restart gunicorn  # if you have gunicor
 To check your keys chain is correct or not, you can checkout at https://whatsmychaincert.com/?mydomain.com&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Jul 2019 06:20:00 +0700</pubDate>
-        <link>https://bachvanthe1994.github.io/blog/nginx/server/ssl/security/2019/07/20/how-to-install-ssl-certificate-on-nginx.html</link>
-        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/nginx/server/ssl/security/2019/07/20/how-to-install-ssl-certificate-on-nginx.html</guid>
+        <link>/blog/nginx/server/ssl/security/2019/07/20/how-to-install-ssl-certificate-on-nginx.html</link>
+        <guid isPermaLink="true">/blog/nginx/server/ssl/security/2019/07/20/how-to-install-ssl-certificate-on-nginx.html</guid>
         
         
         <category>nginx</category>
@@ -977,8 +977,8 @@ To check your keys chain is correct or not, you can checkout at https://whatsmyc
 &lt;p&gt;&lt;em&gt;Original source:&lt;/em&gt; &lt;a href=&quot;https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/&quot;&gt;&lt;em&gt;https://tryolabs.com/blog/2016/12/20/top-10-python…&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 29 Dec 2016 18:34:10 +0700</pubDate>
-        <link>https://bachvanthe1994.github.io/blog/python/django/2016/12/29/top-10-python-libraries-of-2016.html</link>
-        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/django/2016/12/29/top-10-python-libraries-of-2016.html</guid>
+        <link>/blog/python/django/2016/12/29/top-10-python-libraries-of-2016.html</link>
+        <guid isPermaLink="true">/blog/python/django/2016/12/29/top-10-python-libraries-of-2016.html</guid>
         
         
         <category>python</category>
@@ -1034,8 +1034,8 @@ To check your keys chain is correct or not, you can checkout at https://whatsmyc
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 11 Jun 2016 03:43:45 +0700</pubDate>
-        <link>https://bachvanthe1994.github.io/blog/python/codefights/2016/06/11/get-month-name-cf.html</link>
-        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/codefights/2016/06/11/get-month-name-cf.html</guid>
+        <link>/blog/python/codefights/2016/06/11/get-month-name-cf.html</link>
+        <guid isPermaLink="true">/blog/python/codefights/2016/06/11/get-month-name-cf.html</guid>
         
         
         <category>python</category>
