@@ -12,7 +12,7 @@ tagarray: [android, ios, react-native, translate, objtive-c, swift, other]
 collections:
   project:
     output: true
-    permalink: /project/:path/
+    permalink: /project/blog/:path/
 
 social:
     - icon: fa-facebook
