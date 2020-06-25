@@ -3,10 +3,10 @@
   <channel>
     <title>Learn and share</title>
     <description>I write about all problems or experiences that I have.</description>
-    <link>/blog/</link>
-    <atom:link href="/blog/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Jun 2020 16:33:03 +0700</pubDate>
-    <lastBuildDate>Thu, 25 Jun 2020 16:33:03 +0700</lastBuildDate>
+    <link>https://bachvanthe1994.github.io/blog/</link>
+    <atom:link href="https://bachvanthe1994.github.io/blog/sitemap.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 25 Jun 2020 16:36:20 +0700</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2020 16:36:20 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -73,8 +73,8 @@
 &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/agusmakmun/agusmakmun.github.io/master/static/img/_posts/amazon-rds5.png&quot; alt=&quot;amazon-rds 5&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jun 2020 10:03:00 +0700</pubDate>
-        <link>/blog/server/linux/others/2020/06/12/how-to-create-database-amazon-rds.html</link>
-        <guid isPermaLink="true">/blog/server/linux/others/2020/06/12/how-to-create-database-amazon-rds.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/server/linux/others/2020/06/12/how-to-create-database-amazon-rds.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/server/linux/others/2020/06/12/how-to-create-database-amazon-rds.html</guid>
         
         
         <category>server</category>
@@ -138,8 +138,8 @@ and to implement it, you can follow this below example;&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 12 May 2020 20:24:00 +0700</pubDate>
-        <link>/blog/python/django/2020/05/12/how-setup-all-raw-id-fields-and-search-fields-for-django.html</link>
-        <guid isPermaLink="true">/blog/python/django/2020/05/12/how-setup-all-raw-id-fields-and-search-fields-for-django.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/python/django/2020/05/12/how-setup-all-raw-id-fields-and-search-fields-for-django.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/django/2020/05/12/how-setup-all-raw-id-fields-and-search-fields-for-django.html</guid>
         
         
         <category>python</category>
@@ -202,8 +202,8 @@ and to implement it, you can follow this below example;&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 02 May 2020 20:32:04 +0700</pubDate>
-        <link>/blog/python/2020/05/02/python-numberize-until-undefined-or-infinity-numbers.html</link>
-        <guid isPermaLink="true">/blog/python/2020/05/02/python-numberize-until-undefined-or-infinity-numbers.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/python/2020/05/02/python-numberize-until-undefined-or-infinity-numbers.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/2020/05/02/python-numberize-until-undefined-or-infinity-numbers.html</guid>
         
         
         <category>python</category>
@@ -263,8 +263,8 @@ spd-say &lt;span class=&quot;s2&quot;&gt;&quot;My lord, your process hasbeen com
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 07 Apr 2020 14:32:04 +0700</pubDate>
-        <link>/blog/bash/linux/ubuntu/2020/04/07/how-to-make-a-notification-when-terminal-process-is-complete.html</link>
-        <guid isPermaLink="true">/blog/bash/linux/ubuntu/2020/04/07/how-to-make-a-notification-when-terminal-process-is-complete.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/bash/linux/ubuntu/2020/04/07/how-to-make-a-notification-when-terminal-process-is-complete.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/bash/linux/ubuntu/2020/04/07/how-to-make-a-notification-when-terminal-process-is-complete.html</guid>
         
         
         <category>bash</category>
@@ -341,8 +341,8 @@ spd-say &lt;span class=&quot;s2&quot;&gt;&quot;My lord, your process hasbeen com
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 07 Apr 2020 14:32:04 +0700</pubDate>
-        <link>/blog/python/django/2020/04/07/how-to-create-django-language-middleware.html</link>
-        <guid isPermaLink="true">/blog/python/django/2020/04/07/how-to-create-django-language-middleware.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/python/django/2020/04/07/how-to-create-django-language-middleware.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/django/2020/04/07/how-to-create-django-language-middleware.html</guid>
         
         
         <category>python</category>
@@ -406,8 +406,8 @@ SHELL=/bin/bash
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 07 Apr 2020 14:32:04 +0700</pubDate>
-        <link>/blog/bash/linux/ubuntu/2020/04/07/how-to-automaticly-backup-your-projects-into-external-hardisk-in-ubuntu.html</link>
-        <guid isPermaLink="true">/blog/bash/linux/ubuntu/2020/04/07/how-to-automaticly-backup-your-projects-into-external-hardisk-in-ubuntu.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/bash/linux/ubuntu/2020/04/07/how-to-automaticly-backup-your-projects-into-external-hardisk-in-ubuntu.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/bash/linux/ubuntu/2020/04/07/how-to-automaticly-backup-your-projects-into-external-hardisk-in-ubuntu.html</guid>
         
         
         <category>bash</category>
@@ -611,8 +611,8 @@ like android can’t fetch the response body when HTTP Status &amp;gt;= 400).&lt
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 07 Jan 2020 10:17:00 +0700</pubDate>
-        <link>/blog/python/django/2020/01/07/django-standard-api-response-middleware-for-drf.html</link>
-        <guid isPermaLink="true">/blog/python/django/2020/01/07/django-standard-api-response-middleware-for-drf.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/python/django/2020/01/07/django-standard-api-response-middleware-for-drf.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/django/2020/01/07/django-standard-api-response-middleware-for-drf.html</guid>
         
         
         <category>python</category>
@@ -890,8 +890,8 @@ ubuntu@ip-xxx-xx-x-xxx:~$ sudo systemctl restart gunicorn  # if you have gunicor
 To check your keys chain is correct or not, you can checkout at https://whatsmychaincert.com/?mydomain.com&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Jul 2019 06:20:00 +0700</pubDate>
-        <link>/blog/nginx/server/ssl/security/2019/07/20/how-to-install-ssl-certificate-on-nginx.html</link>
-        <guid isPermaLink="true">/blog/nginx/server/ssl/security/2019/07/20/how-to-install-ssl-certificate-on-nginx.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/nginx/server/ssl/security/2019/07/20/how-to-install-ssl-certificate-on-nginx.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/nginx/server/ssl/security/2019/07/20/how-to-install-ssl-certificate-on-nginx.html</guid>
         
         
         <category>nginx</category>
@@ -977,8 +977,8 @@ To check your keys chain is correct or not, you can checkout at https://whatsmyc
 &lt;p&gt;&lt;em&gt;Original source:&lt;/em&gt; &lt;a href=&quot;https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/&quot;&gt;&lt;em&gt;https://tryolabs.com/blog/2016/12/20/top-10-python…&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 29 Dec 2016 18:34:10 +0700</pubDate>
-        <link>/blog/python/django/2016/12/29/top-10-python-libraries-of-2016.html</link>
-        <guid isPermaLink="true">/blog/python/django/2016/12/29/top-10-python-libraries-of-2016.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/python/django/2016/12/29/top-10-python-libraries-of-2016.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/django/2016/12/29/top-10-python-libraries-of-2016.html</guid>
         
         
         <category>python</category>
@@ -1034,8 +1034,8 @@ To check your keys chain is correct or not, you can checkout at https://whatsmyc
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 11 Jun 2016 03:43:45 +0700</pubDate>
-        <link>/blog/python/codefights/2016/06/11/get-month-name-cf.html</link>
-        <guid isPermaLink="true">/blog/python/codefights/2016/06/11/get-month-name-cf.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/python/codefights/2016/06/11/get-month-name-cf.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/codefights/2016/06/11/get-month-name-cf.html</guid>
         
         
         <category>python</category>
@@ -1092,8 +1092,8 @@ Output: 0
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 11 Jun 2016 03:39:03 +0700</pubDate>
-        <link>/blog/python/codefights/2016/06/11/find-the-number-of-even-digits-in-the-given-integer-cf.html</link>
-        <guid isPermaLink="true">/blog/python/codefights/2016/06/11/find-the-number-of-even-digits-in-the-given-integer-cf.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/python/codefights/2016/06/11/find-the-number-of-even-digits-in-the-given-integer-cf.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/codefights/2016/06/11/find-the-number-of-even-digits-in-the-given-integer-cf.html</guid>
         
         
         <category>python</category>
@@ -1167,8 +1167,8 @@ Finally, all the new strings are concatenated together in the same order and a n
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 11 Jun 2016 03:04:23 +0700</pubDate>
-        <link>/blog/python/codefights/2016/06/11/find-substrings-for-line-encoding-cf.html</link>
-        <guid isPermaLink="true">/blog/python/codefights/2016/06/11/find-substrings-for-line-encoding-cf.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/python/codefights/2016/06/11/find-substrings-for-line-encoding-cf.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/codefights/2016/06/11/find-substrings-for-line-encoding-cf.html</guid>
         
         
         <category>python</category>
@@ -1262,8 +1262,8 @@ Expected Output: &quot;The MAGIC words are fiz buzz and plaf&quot;
 &lt;p&gt;Thanks to &lt;strong&gt;GOD&lt;/strong&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 22 May 2016 04:17:54 +0700</pubDate>
-        <link>/blog/python/codefights/2016/05/22/censorthis-censor-the-words-cf.html</link>
-        <guid isPermaLink="true">/blog/python/codefights/2016/05/22/censorthis-censor-the-words-cf.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/python/codefights/2016/05/22/censorthis-censor-the-words-cf.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/codefights/2016/05/22/censorthis-censor-the-words-cf.html</guid>
         
         
         <category>python</category>
@@ -1318,8 +1318,8 @@ Expected Output: &quot;The MAGIC words are fiz buzz and plaf&quot;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sun, 22 May 2016 04:10:03 +0700</pubDate>
-        <link>/blog/python/codefights/2016/05/22/notpaired-cf.html</link>
-        <guid isPermaLink="true">/blog/python/codefights/2016/05/22/notpaired-cf.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/python/codefights/2016/05/22/notpaired-cf.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/codefights/2016/05/22/notpaired-cf.html</guid>
         
         
         <category>python</category>
@@ -1376,8 +1376,8 @@ x reversed as described above.&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sun, 22 May 2016 04:04:23 +0700</pubDate>
-        <link>/blog/python/codefights/2016/05/22/reverse-bit-cf.html</link>
-        <guid isPermaLink="true">/blog/python/codefights/2016/05/22/reverse-bit-cf.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/python/codefights/2016/05/22/reverse-bit-cf.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/codefights/2016/05/22/reverse-bit-cf.html</guid>
         
         
         <category>python</category>
@@ -1403,8 +1403,8 @@ x reversed as described above.&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 21 May 2016 14:32:04 +0700</pubDate>
-        <link>/blog/python/security/2016/05/21/python-simple-ciphertext.html</link>
-        <guid isPermaLink="true">/blog/python/security/2016/05/21/python-simple-ciphertext.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/python/security/2016/05/21/python-simple-ciphertext.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/security/2016/05/21/python-simple-ciphertext.html</guid>
         
         
         <category>python</category>
@@ -1447,8 +1447,8 @@ End time      : 06:53:06
 &lt;p&gt;For more you can checkout on our repository: &lt;a href=&quot;https://github.com/agusmakmun/Crazy-Decrypter&quot;&gt;https://github.com/agusmakmun/Crazy-Decrypter&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 21 May 2016 14:25:20 +0700</pubDate>
-        <link>/blog/python/security/2016/05/21/python-crazy-decrypter-has-been-released.html</link>
-        <guid isPermaLink="true">/blog/python/security/2016/05/21/python-crazy-decrypter-has-been-released.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/python/security/2016/05/21/python-crazy-decrypter-has-been-released.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/security/2016/05/21/python-crazy-decrypter-has-been-released.html</guid>
         
         
         <category>python</category>
@@ -1484,8 +1484,8 @@ but if you can add it, you can following this tutorial bellow:&lt;/p&gt;
 &lt;p&gt;hope it usefull.&lt;/p&gt;
 </description>
         <pubDate>Tue, 26 Apr 2016 04:19:22 +0700</pubDate>
-        <link>/blog/others/2016/04/26/javascript-validator-for-input-number.html</link>
-        <guid isPermaLink="true">/blog/others/2016/04/26/javascript-validator-for-input-number.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/others/2016/04/26/javascript-validator-for-input-number.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/others/2016/04/26/javascript-validator-for-input-number.html</guid>
         
         
         <category>others</category>
@@ -1536,8 +1536,8 @@ but if you can add it, you can following this tutorial bellow:&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Wed, 20 Apr 2016 22:32:34 +0700</pubDate>
-        <link>/blog/django/raspberry/2016/04/20/setup-django-in-apache2-raspberry-pi.html</link>
-        <guid isPermaLink="true">/blog/django/raspberry/2016/04/20/setup-django-in-apache2-raspberry-pi.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/django/raspberry/2016/04/20/setup-django-in-apache2-raspberry-pi.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/django/raspberry/2016/04/20/setup-django-in-apache2-raspberry-pi.html</guid>
         
         
         <category>django</category>
@@ -1623,8 +1623,8 @@ but if you can add it, you can following this tutorial bellow:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/agusmakmun/agusmakmun.github.io/master/static/img/_posts/Broadcast_Mail.png&quot; alt=&quot;Screenshot broadcast&quot; title=&quot;Screenshot broadcast&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 20 Apr 2016 19:51:02 +0700</pubDate>
-        <link>/blog/python/django/2016/04/20/adding-broadcast-mail-to-all-users-registered-inside-django-admin.html</link>
-        <guid isPermaLink="true">/blog/python/django/2016/04/20/adding-broadcast-mail-to-all-users-registered-inside-django-admin.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/python/django/2016/04/20/adding-broadcast-mail-to-all-users-registered-inside-django-admin.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/django/2016/04/20/adding-broadcast-mail-to-all-users-registered-inside-django-admin.html</guid>
         
         
         <category>python</category>
@@ -1668,8 +1668,8 @@ but if you can add it, you can following this tutorial bellow:&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 20 Apr 2016 09:41:20 +0700</pubDate>
-        <link>/blog/python/django/2016/04/20/custom-redirect-urls-django.html</link>
-        <guid isPermaLink="true">/blog/python/django/2016/04/20/custom-redirect-urls-django.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/python/django/2016/04/20/custom-redirect-urls-django.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/django/2016/04/20/custom-redirect-urls-django.html</guid>
         
         
         <category>python</category>
@@ -1710,8 +1710,8 @@ but if you can add it, you can following this tutorial bellow:&lt;/p&gt;
 &lt;span class=&quot;no&quot;&gt;EMAIL_BACKEND&lt;/span&gt;        &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'postmark.django_backend.EmailBackend'&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 </description>
         <pubDate>Tue, 19 Apr 2016 20:15:33 +0700</pubDate>
-        <link>/blog/django/2016/04/19/replace-email-backend-gmail-to-postmarkapp-for-django.html</link>
-        <guid isPermaLink="true">/blog/django/2016/04/19/replace-email-backend-gmail-to-postmarkapp-for-django.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/django/2016/04/19/replace-email-backend-gmail-to-postmarkapp-for-django.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/django/2016/04/19/replace-email-backend-gmail-to-postmarkapp-for-django.html</guid>
         
         
         <category>django</category>
@@ -1754,8 +1754,8 @@ If you insert a -l 0 you´ll download the whole internet, because wget will foll
 
 </description>
         <pubDate>Tue, 19 Apr 2016 19:39:02 +0700</pubDate>
-        <link>/blog/bash/2016/04/19/download-recrusive-files-inside-index-of-in-linux-using-wget.html</link>
-        <guid isPermaLink="true">/blog/bash/2016/04/19/download-recrusive-files-inside-index-of-in-linux-using-wget.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/bash/2016/04/19/download-recrusive-files-inside-index-of-in-linux-using-wget.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/bash/2016/04/19/download-recrusive-files-inside-index-of-in-linux-using-wget.html</guid>
         
         
         <category>bash</category>
@@ -1782,8 +1782,8 @@ If you insert a -l 0 you´ll download the whole internet, because wget will foll
 
 </description>
         <pubDate>Tue, 19 Apr 2016 19:31:43 +0700</pubDate>
-        <link>/blog/python/2016/04/19/python-permutations.html</link>
-        <guid isPermaLink="true">/blog/python/2016/04/19/python-permutations.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/python/2016/04/19/python-permutations.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/2016/04/19/python-permutations.html</guid>
         
         
         <category>python</category>
@@ -1822,8 +1822,8 @@ If you insert a -l 0 you´ll download the whole internet, because wget will foll
 &lt;span class=&quot;c1&quot;&gt;### ===============================================&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 </description>
         <pubDate>Tue, 19 Apr 2016 19:19:21 +0700</pubDate>
-        <link>/blog/bash/2016/04/19/simple-bash-scripting-for-login-before-open-the-terminal.html</link>
-        <guid isPermaLink="true">/blog/bash/2016/04/19/simple-bash-scripting-for-login-before-open-the-terminal.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/bash/2016/04/19/simple-bash-scripting-for-login-before-open-the-terminal.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/bash/2016/04/19/simple-bash-scripting-for-login-before-open-the-terminal.html</guid>
         
         
         <category>bash</category>
@@ -1857,8 +1857,8 @@ If you insert a -l 0 you´ll download the whole internet, because wget will foll
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 19 Apr 2016 14:39:34 +0700</pubDate>
-        <link>/blog/python/bash/2016/04/19/remove-all-files-pyc-with-recrusive-method.html</link>
-        <guid isPermaLink="true">/blog/python/bash/2016/04/19/remove-all-files-pyc-with-recrusive-method.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/python/bash/2016/04/19/remove-all-files-pyc-with-recrusive-method.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/bash/2016/04/19/remove-all-files-pyc-with-recrusive-method.html</guid>
         
         
         <category>python</category>
@@ -1888,8 +1888,8 @@ EMAIL_BACKEND       = 'django.core.mail.backends.smtp.EmailBackend'
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 19 Apr 2016 02:28:15 +0700</pubDate>
-        <link>/blog/python/django/2016/04/19/email-backend-with-smtp-gmail.html</link>
-        <guid isPermaLink="true">/blog/python/django/2016/04/19/email-backend-with-smtp-gmail.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/python/django/2016/04/19/email-backend-with-smtp-gmail.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/python/django/2016/04/19/email-backend-with-smtp-gmail.html</guid>
         
         
         <category>python</category>
@@ -1959,8 +1959,8 @@ EMAIL_BACKEND       = 'django.core.mail.backends.smtp.EmailBackend'
 
 </description>
         <pubDate>Mon, 23 Dec 2013 00:18:23 +0700</pubDate>
-        <link>/blog/jekyll/2013/12/23/welcome-to-simply-grey.html</link>
-        <guid isPermaLink="true">/blog/jekyll/2013/12/23/welcome-to-simply-grey.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/jekyll/2013/12/23/welcome-to-simply-grey.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/jekyll/2013/12/23/welcome-to-simply-grey.html</guid>
         
         
         <category>jekyll</category>
@@ -2005,8 +2005,8 @@ EMAIL_BACKEND       = 'django.core.mail.backends.smtp.EmailBackend'
 
 </description>
         <pubDate>Mon, 23 Dec 2013 00:18:23 +0700</pubDate>
-        <link>/blog/ruby/2013/12/23/ruby-json.html</link>
-        <guid isPermaLink="true">/blog/ruby/2013/12/23/ruby-json.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/ruby/2013/12/23/ruby-json.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/ruby/2013/12/23/ruby-json.html</guid>
         
         
         <category>ruby</category>
@@ -2031,8 +2031,8 @@ EMAIL_BACKEND       = 'django.core.mail.backends.smtp.EmailBackend'
 
 </description>
         <pubDate>Tue, 19 Feb 2013 21:28:15 +0700</pubDate>
-        <link>/blog/jekyll/2013/02/19/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">/blog/jekyll/2013/02/19/welcome-to-jekyll.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/jekyll/2013/02/19/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/jekyll/2013/02/19/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
