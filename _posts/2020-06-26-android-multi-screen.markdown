@@ -5,12 +5,13 @@ date: 2020-06-26 16:33:23 +0700
 categories: [android]
 ---
 
+
 <img src="{{ site.url }}/static/img/posts/sdp_example.png" style="width: 400px;">
 
 
-
 **So what is smallestWidth ?**
-<br/>
+
+
 Theo 1 cách hiểu đơn giản nhất đó là:
 
 Mỗi màn hình điện thoại sẽ ứng với 1 thư mục swdp khác nhau. Hệ thống sẽ tự select vào thư mục resource đó. Bằng cách lấy giá trị nhỏ nhất giữa chiều dài và chiều rộng của máy (đơn vị dp). Sau khi tính xong sẽ so sánh với các thư mục trong resource, nếu giá trị đó gần nhất với nào (theo chiều giảm dần, nếu min = 360dp thì nó sẽ chỉ check các thư mục có nhỏ hơn hoạc bằng 360dp) thì sẽ chọn thư mục đó làm nguồn.

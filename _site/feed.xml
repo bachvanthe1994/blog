@@ -5,17 +5,17 @@
     <description>I write about all problems or experiences that I have.</description>
     <link>https://bachvanthe1994.github.io/blog/</link>
     <atom:link href="https://bachvanthe1994.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jun 2020 23:39:02 +0700</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2020 23:39:02 +0700</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2020 23:41:15 +0700</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2020 23:41:15 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>[android] Multi screen use smallestWidth</title>
         <description>&lt;p&gt;&lt;img src=&quot;https://bachvanthe1994.github.io/blog/static/img/posts/sdp_example.png&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;So what is smallestWidth ?&lt;/strong&gt;
-&lt;br /&gt;
-Theo 1 cách hiểu đơn giản nhất đó là:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;So what is smallestWidth ?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Theo 1 cách hiểu đơn giản nhất đó là:&lt;/p&gt;
 
 &lt;p&gt;Mỗi màn hình điện thoại sẽ ứng với 1 thư mục swdp khác nhau. Hệ thống sẽ tự select vào thư mục resource đó. Bằng cách lấy giá trị nhỏ nhất giữa chiều dài và chiều rộng của máy (đơn vị dp). Sau khi tính xong sẽ so sánh với các thư mục trong resource, nếu giá trị đó gần nhất với nào (theo chiều giảm dần, nếu min = 360dp thì nó sẽ chỉ check các thư mục có nhỏ hơn hoạc bằng 360dp) thì sẽ chọn thư mục đó làm nguồn.&lt;/p&gt;
 
