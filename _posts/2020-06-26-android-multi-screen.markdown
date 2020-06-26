@@ -77,7 +77,7 @@ sw320dp: <dimen name="size_layout">320dp</dimen>
 sw360dp: <dimen name="size_layout">360dp</dimen>
 ```
 
-Ta sẽ sửa file layout để sử dụng theo theo resource @dimen
+Ta sẽ sửa file layout để sử dụng theo resource @dimen
 
 ``` xml
 <LinearLayout
