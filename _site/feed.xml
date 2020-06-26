@@ -3,10 +3,10 @@
   <channel>
     <title>Learn and share</title>
     <description>I write about all problems or experiences that I have.</description>
-    <link>http://127.0.0.1:4000/</link>
-    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jun 2020 17:26:54 +0700</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2020 17:26:54 +0700</lastBuildDate>
+    <link>https://bachvanthe1994.github.io/blog/</link>
+    <atom:link href="https://bachvanthe1994.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 26 Jun 2020 17:30:00 +0700</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2020 17:30:00 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -92,8 +92,8 @@ sw360dp: &lt;span class=&quot;nt&quot;&gt;&amp;lt;dimen&lt;/span&gt; &lt;span cl
 &lt;p&gt;&lt;a href=&quot;https://github.com/intuit/sdp&quot;&gt;https://github.com/intuit/sdp&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Jun 2020 16:33:23 +0700</pubDate>
-        <link>http://127.0.0.1:4000/android/2020/06/26/android-multi-screen.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/android/2020/06/26/android-multi-screen.html</guid>
+        <link>https://bachvanthe1994.github.io/blog/android/2020/06/26/android-multi-screen.html</link>
+        <guid isPermaLink="true">https://bachvanthe1994.github.io/blog/android/2020/06/26/android-multi-screen.html</guid>
         
         
         <category>android</category>
