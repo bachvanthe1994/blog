@@ -5,7 +5,7 @@ date: 2020-06-26 16:33:23 +0700
 categories: [android]
 ---
 
-<img src="/static/img/posts/sdp_example.png" style="width: 400px;">
+<img src="{{ site.url }}/static/img/posts/sdp_example.png" style="width: 400px;">
 
 
 
