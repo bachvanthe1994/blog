@@ -32,7 +32,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-urlGit: "http://127.0.0.1:4000"
+# url: "http://127.0.0.1:4000"
 url: "https://bachvanthe1994.github.io/blog"
 baseurl: ""
 paginate: 20
