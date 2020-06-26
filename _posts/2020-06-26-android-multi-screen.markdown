@@ -52,7 +52,7 @@ Và bạn có 1 layout có width = 320dp
    android:layout_height="100dp"></LinearLayout>
 ```
 
-Tất nhiên khi chạy máy A thì nó sẽ đổ đầy chiều with của màn hình, tuy nhiên khi sang máy B thì nó lại bỉ thừ 1 khoảng là 360 – 320 = 40dp !-__-)
+Tất nhiên khi chạy máy A thì nó sẽ đổ đầy chiều with của màn hình, tuy nhiên khi sang máy B thì nó lại bị thừa 1 khoảng là 360 – 320 = 40dp !-__-)
 
 Vậy để khác phục điều này ta sẽ tạo ra 2 thư mục đó là:
 
